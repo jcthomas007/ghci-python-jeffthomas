@@ -9,6 +9,7 @@ This is a tiny sample repo for **Session 1: AI‑Assisted GitHub & CI**.
 - `.github/pull_request_template.md`: a simple template for quality PRs
 
 ## Run locally (optional)
+this is one helpfull line
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
